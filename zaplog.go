@@ -4,7 +4,7 @@ import (
 	"go.uber.org/zap"
 	"go.uber.org/zap/zapcore"
 	"gopkg.in/natefinch/lumberjack.v2"
-	"github.com/JaosnPan/lib1"
+	"github.com/ystar2020/lib1"
 	"os"
 )
 
